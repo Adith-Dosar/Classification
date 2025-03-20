@@ -19,13 +19,10 @@ Welcome to the Classification Projects Repository! This repository houses variou
 ### 5. Fake News Detection
 **Brief Description**: This project aims to identify fake news articles using natural language processing techniques. By detecting misinformation, it helps maintain the integrity of news and prevents the spread of false information.
 
-### 6. Lung Cancer Detection
-**Brief Description**: This project predicts the presence of lung cancer based on medical imaging data and patient history. Early detection of lung cancer can significantly improve treatment outcomes and survival rates.
-
-### 7. Pneumonia Detection
+### 6. Pneumonia Detection
 **Brief Description**: This project focuses on detecting pneumonia from chest X-ray images. Accurate diagnosis of pneumonia is crucial for timely treatment and preventing complications.
 
-### 8. Stroke Prediction
+### 7. Stroke Prediction
 **Brief Description**: This project predicts the likelihood of a stroke based on patient data such as age, gender, hypertension, heart disease, and smoking status. Early prediction can help in preventive measures and better management of risk factors.
 
 ## Objectives
@@ -40,7 +37,6 @@ Welcome to the Classification Projects Repository! This repository houses variou
 - **Real-Time Object Detection**: Video streams, object classes, bounding boxes.
 - **Sentiment Analysis**: Text data, sentiment labels (positive, negative, neutral).
 - **Fake News Detection**: News articles, authenticity labels.
-- **Lung Cancer Detection**: Medical imaging data, patient history.
 - **Pneumonia Detection**: Chest X-ray images, diagnostic labels.
 - **Stroke Prediction**: Age, gender, hypertension, heart disease, smoking status.
 
@@ -51,7 +47,6 @@ Each project includes datasets with relevant features:
 - **Real-Time Object Detection**: Video streams with labeled objects.
 - **Sentiment Analysis**: Text data with sentiment labels.
 - **Fake News Detection**: News articles with authenticity labels.
-- **Lung Cancer Detection**: Medical imaging data and patient history.
 - **Pneumonia Detection**: Chest X-ray images with diagnostic labels.
 - **Stroke Prediction**: Patient data including age, gender, hypertension, heart disease, smoking status.
 
